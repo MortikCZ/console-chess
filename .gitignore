@@ -727,4 +727,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Ignore .gitignore file itself
-.gitignore
+/.gitignore
+
+# Ignore .gitattributes file
+/.gitattributes
